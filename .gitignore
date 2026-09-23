@@ -1,0 +1,30 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit / local app state
+.streamlit/
+*.log
+
+# Environment/config secrets
+.env
+.env.*
+
+# Dataset if you do not want to track it
+# ecommerce_user_dataset.csv
+
+# VS Code workspace settings
+.vscode/
